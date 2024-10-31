@@ -1,0 +1,33 @@
+# Operating system files
+/.DS_Store
+/Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
+
+# Build and log files
+build/
+dist/
+logs/
+
+# Node.js
+node_modules/
+
+# Python
+__pycache__/
+venv/
+
+# Compiled files
+*.class
+*.jar
+*.war
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# Specific files or directories
+file1.txt
+directory1/
